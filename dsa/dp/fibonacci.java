@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class fibonacci {
     static int rec_fib(int n){
-        if(n<)
+        return 1;
     }
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
